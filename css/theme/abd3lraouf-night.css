@@ -74,7 +74,7 @@ div.reveal h2 {
   border-radius: 10px;
   background-color: rgba(38, 36, 41, 0.95); }
   .title h1::before {
-    content: "You. Me.";
+    content: "Let's talk about";
     display: block;
     font-size: 0.57em; }
   .title .event {

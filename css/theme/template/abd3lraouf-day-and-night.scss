@@ -112,7 +112,7 @@ div.reveal h2 {
 	@include raw-slide-background;
 
 	h1::before {
-		content: "You. Me.";
+		content: "Let's talk about";
 		display: block;
 		// result of `h2 / h1`, so "You Me" has same size as subtitle
 		font-size: 0.57em;
